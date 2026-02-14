@@ -1,0 +1,3 @@
+# ninja log v5
+0	17291	1698122203606057519	/home/zpc/Documents/PCGCv2-TSC_PCAC/nndistance/build/temp.linux-x86_64-3.8/src/my_lib_cuda.o	f36ea45495e50c26
+0	33930	1698122220249868643	/home/zpc/Documents/PCGCv2-TSC_PCAC/nndistance/build/temp.linux-x86_64-3.8/src/nnd_cuda.o	66428fd36b00c2ba
